@@ -1,0 +1,19 @@
+1) java 1.8 설치
+2) sts4 설치
+3) intellij key map 설치
+4) sts4 웹개발 환경 세팅
+- JavaEE 플러그인 설치 (JSP) 마켓 -> eclipse enterprise java and web developer 다운
+- Javascript 파일 인식 설정 -> 
+	windows - preference - general - editors - file associations - add 	- *.js - 하단 메뉴의 genric 을 default 로 설정하면 js를 잘 인식한다 
+- Lombok 플러그인 설치	
+	>> lombok 라이브러리 검색
+	>> project lombok 접속
+	>> download 카테고리 다운로드
+	>> sts 끄고
+	>> lombok.jar 파일 있는 곳 가서 -> git bash here
+	>> java -jar lombok.jar
+	>> 설치파일 뜸
+	>> sts 실행파일 위치로가서 실행파일을 선택후 인스톨/등록
+
+5) 기본 설정 utf-8, key 세팅
+- 폰트 및 인코딩 설정
