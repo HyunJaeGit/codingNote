@@ -1,0 +1,9 @@
+깃허브에 프로젝트 연동
+
+git init
+git config --global user.name
+git config --global user.email
+
+git remote add origin https://github.com/HyunJaeGit/codingNote.git
+
+git push -u origin master
