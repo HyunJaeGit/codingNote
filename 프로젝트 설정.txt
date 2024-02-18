@@ -1,0 +1,9 @@
+프로젝트 설정
+
+java 1.8
+spring boot devtools
+lombok
+spring data JPA
+MySQL Driver
+Spring Security
+Spring Web
